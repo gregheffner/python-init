@@ -1,3 +1,12 @@
+<div align="center">
+    <h1>New Script Setup</h1>
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+</div>
+
 # Cookie Cut
 
 This project contains a Cookiecutter template that helps you create new Python 3.6+ package projects by automatically generating most of the boiler plate content for you.
@@ -17,7 +26,7 @@ brew install Cookiecutter
 1. Use Cookiecutter to generate python project using template.
 
 ```bash
-cookiecutter https://github.com/badxkarma/python-bootstrap.git
+cookiecutter https://github.com/gregheffner/python-init.git
 ```
 
 1. Move into the project directory and make a virtual environment.
